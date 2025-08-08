@@ -1,0 +1,27 @@
+{
+  "statistics": {
+    "start_time": "2025-08-07T21:16:43.472789",
+    "price_records": 216317,
+    "news_records": 87075,
+    "symbols_collected": 200,
+    "total_api_calls": 1035,
+    "duration": 272.550146,
+    "price_api_calls": 47,
+    "price_success_rate": 1.0,
+    "news_api_calls": 988,
+    "news_success_rate": 0.9898785425101214
+  },
+  "price_summary": {
+    "total_records": 216317,
+    "unique_symbols": 200,
+    "date_range": {
+      "start": "2021-08-02 00:00:00",
+      "end": "2025-08-06 00:00:00"
+    }
+  },
+  "news_summary": {
+    "total_articles": 87075,
+    "sentiment_mean": 0.5472584384364428,
+    "sentiment_std": 0.26791104759294415
+  }
+}

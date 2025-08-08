@@ -1,0 +1,6 @@
+Strategy,Expected Return (%),Volatility (%),Sharpe Ratio,Sortino Ratio,Max Drawdown (%),VaR 95% (%),Number of Holdings,Max Weight (%),Top 5 Concentration (%)
+Equal Weight,51.1,43.15,1.138,2.238,20.27,3.58,0,0.71,3.55
+Min Variance,2.56,5.72,0.097,0.287,0.9,0.28,20,7.24,35.76
+Risk Parity,109.27,69.3,1.548,3.373,29.99,5.49,43,4.57,18.47
+Max Sharpe,108.94,17.22,6.212,13.003,2.95,1.28,18,19.76,52.89
+Sentiment Enhanced,411.92,112.76,3.635,9.749,23.12,6.79,4,40.0,100.0

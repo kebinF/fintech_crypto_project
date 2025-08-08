@@ -1,0 +1,266 @@
+2025-08-07 20:31:11,244 - __main__ - INFO - Fetching top 200 cryptocurrencies
+2025-08-07 20:31:19,321 - __main__ - INFO - BTC: Saved 1466 records
+2025-08-07 20:31:19,476 - __main__ - INFO - ETH: Saved 1466 records
+2025-08-07 20:31:19,639 - __main__ - INFO - XRP: Saved 1466 records
+2025-08-07 20:31:19,798 - __main__ - INFO - USDT: Saved 1466 records
+2025-08-07 20:31:19,970 - __main__ - INFO - BNB: Saved 1466 records
+2025-08-07 20:31:20,132 - __main__ - INFO - SOL: Saved 1466 records
+2025-08-07 20:31:20,284 - __main__ - INFO - USDC: Saved 1466 records
+2025-08-07 20:31:20,434 - __main__ - INFO - TRX: Saved 1466 records
+2025-08-07 20:31:20,582 - __main__ - INFO - DOGE: Saved 1466 records
+2025-08-07 20:31:20,746 - __main__ - INFO - ADA: Saved 1466 records
+2025-08-07 20:31:20,747 - __main__ - INFO - Checkpoint saved: 10 symbols completed
+2025-08-07 20:31:22,865 - __main__ - INFO - HYPE: Saved 243 records
+2025-08-07 20:31:23,022 - __main__ - INFO - XLM: Saved 1466 records
+2025-08-07 20:31:23,129 - __main__ - INFO - SUI: Saved 827 records
+2025-08-07 20:31:23,262 - __main__ - INFO - LINK: Saved 1466 records
+2025-08-07 20:31:23,415 - __main__ - INFO - BCH: Saved 1466 records
+2025-08-07 20:31:23,561 - __main__ - INFO - HBAR: Saved 1466 records
+2025-08-07 20:31:23,624 - __main__ - INFO - USDE: Saved 622 records
+2025-08-07 20:31:23,784 - __main__ - INFO - AVAX: Saved 1466 records
+2025-08-07 20:31:23,883 - __main__ - INFO - WBT: Saved 1050 records
+2025-08-07 20:31:24,015 - __main__ - INFO - LTC: Saved 1466 records
+2025-08-07 20:31:24,016 - __main__ - INFO - Checkpoint saved: 20 symbols completed
+2025-08-07 20:31:26,371 - __main__ - INFO - LEO: Saved 1466 records
+2025-08-07 20:31:26,565 - __main__ - INFO - TON: Saved 1448 records
+2025-08-07 20:31:26,728 - __main__ - INFO - SHIB: Saved 1466 records
+2025-08-07 20:31:26,885 - __main__ - INFO - UNI: Saved 1466 records
+2025-08-07 20:31:27,087 - __main__ - INFO - XMR: Saved 1466 records
+2025-08-07 20:31:27,187 - __main__ - INFO - BGB: Saved 833 records
+2025-08-07 20:31:27,363 - __main__ - INFO - USDS: Saved 1466 records
+2025-08-07 20:31:27,577 - __main__ - INFO - CRO: Saved 1466 records
+2025-08-07 20:31:27,664 - __main__ - INFO - PEPE: Saved 846 records
+2025-08-07 20:31:27,715 - __main__ - INFO - ENA: Saved 496 records
+2025-08-07 20:31:27,716 - __main__ - INFO - Checkpoint saved: 30 symbols completed
+2025-08-07 20:31:30,030 - __main__ - INFO - AAVE: Saved 1466 records
+2025-08-07 20:31:30,197 - __main__ - INFO - OKB: Saved 1466 records
+2025-08-07 20:31:30,398 - __main__ - INFO - DAI: Saved 1466 records
+2025-08-07 20:31:30,580 - __main__ - INFO - NEAR: Saved 1466 records
+2025-08-07 20:31:30,678 - __main__ - INFO - MANTLE: Saved 730 records
+2025-08-07 20:31:30,893 - __main__ - INFO - ETC: Saved 1466 records
+2025-08-07 20:31:30,962 - __main__ - INFO - ONDO: Saved 568 records
+2025-08-07 20:31:31,086 - __main__ - INFO - APT: Saved 1024 records
+2025-08-07 20:31:31,234 - __main__ - INFO - TAO: Saved 1087 records
+2025-08-07 20:31:31,376 - __main__ - INFO - ICP: Saved 1466 records
+2025-08-07 20:31:31,377 - __main__ - INFO - Checkpoint saved: 40 symbols completed
+2025-08-07 20:31:33,979 - __main__ - INFO - PI: Saved 1466 records
+2025-08-07 20:31:34,013 - __main__ - INFO - PENGU: Saved 233 records
+2025-08-07 20:31:34,143 - __main__ - INFO - KAS: Saved 1001 records
+2025-08-07 20:31:34,350 - __main__ - INFO - ALGO: Saved 1466 records
+2025-08-07 20:31:34,398 - __main__ - INFO - USD1: Saved 117 records
+2025-08-07 20:31:34,483 - __main__ - INFO - POL: Saved 652 records
+2025-08-07 20:31:34,586 - __main__ - INFO - ARB: Saved 874 records
+2025-08-07 20:31:34,797 - __main__ - INFO - VET: Saved 1466 records
+2025-08-07 20:31:34,979 - __main__ - INFO - ATOM: Saved 1466 records
+2025-08-07 20:31:35,105 - __main__ - INFO - BONK: Saved 947 records
+2025-08-07 20:31:35,106 - __main__ - INFO - Checkpoint saved: 50 symbols completed
+2025-08-07 20:31:39,136 - __main__ - INFO - FTN: Saved 930 records
+2025-08-07 20:31:39,347 - __main__ - INFO - GT: Saved 1466 records
+2025-08-07 20:31:39,393 - __main__ - INFO - RYO: Saved 346 records
+2025-08-07 20:31:39,543 - __main__ - INFO - WLD: Saved 745 records
+2025-08-07 20:31:39,583 - __main__ - INFO - TRUMP: Saved 201 records
+2025-08-07 20:31:39,783 - __main__ - INFO - FET: Saved 1466 records
+2025-08-07 20:31:39,854 - __main__ - INFO - JLP: Saved 396 records
+2025-08-07 20:31:39,913 - __main__ - INFO - IP: Saved 180 records
+2025-08-07 20:31:39,953 - __main__ - INFO - SKY: Saved 307 records
+2025-08-07 20:31:40,129 - __main__ - INFO - FIL: Saved 1466 records
+2025-08-07 20:31:40,132 - __main__ - INFO - Checkpoint saved: 60 symbols completed
+2025-08-07 20:31:42,147 - __main__ - INFO - FLR: Saved 940 records
+2025-08-07 20:31:42,313 - __main__ - INFO - SPX: Saved 1466 records
+2025-08-07 20:31:42,497 - __main__ - INFO - QNT: Saved 1466 records
+2025-08-07 20:31:42,555 - __main__ - INFO - RENDER: Saved 539 records
+2025-08-07 20:31:42,559 - __main__ - INFO - USDT0: Saved 1 records
+2025-08-07 20:31:42,772 - __main__ - INFO - XDC: Saved 1466 records
+2025-08-07 20:31:42,837 - __main__ - INFO - JUP: Saved 568 records
+2025-08-07 20:31:42,898 - __main__ - INFO - HTX: Saved 561 records
+2025-08-07 20:31:42,905 - __main__ - INFO - USDTB: Saved 29 records
+2025-08-07 20:31:43,102 - __main__ - INFO - KCS: Saved 1466 records
+2025-08-07 20:31:43,103 - __main__ - INFO - Checkpoint saved: 70 symbols completed
+2025-08-07 20:31:46,118 - __main__ - INFO - SEI: Saved 724 records
+2025-08-07 20:31:46,360 - __main__ - INFO - CRV: Saved 1466 records
+2025-08-07 20:31:46,556 - __main__ - INFO - STX: Saved 1466 records
+2025-08-07 20:31:46,708 - __main__ - INFO - FDUSD: Saved 743 records
+2025-08-07 20:31:46,717 - __main__ - INFO - USDF: Saved 38 records
+2025-08-07 20:31:46,801 - __main__ - INFO - TIA: Saved 646 records
+2025-08-07 20:31:46,995 - __main__ - INFO - OP: Saved 1164 records
+2025-08-07 20:31:47,188 - __main__ - INFO - CFX: Saved 1466 records
+2025-08-07 20:31:47,438 - __main__ - INFO - INJ: Saved 1466 records
+2025-08-07 20:31:47,672 - __main__ - INFO - FLOKI: Saved 1408 records
+2025-08-07 20:31:47,673 - __main__ - INFO - Checkpoint saved: 80 symbols completed
+2025-08-07 20:31:51,024 - __main__ - INFO - IMX: Saved 1371 records
+2025-08-07 20:31:51,260 - __main__ - INFO - ENS: Saved 1367 records
+2025-08-07 20:31:51,502 - __main__ - INFO - PAXG: Saved 1466 records
+2025-08-07 20:31:51,604 - __main__ - INFO - PYUSD: Saved 730 records
+2025-08-07 20:31:51,645 - __main__ - INFO - FARTCOIN: Saved 290 records
+2025-08-07 20:31:51,887 - __main__ - INFO - CAKE: Saved 1466 records
+2025-08-07 20:31:52,142 - __main__ - INFO - GRT: Saved 1466 records
+2025-08-07 20:31:52,234 - __main__ - INFO - WIF: Saved 595 records
+2025-08-07 20:31:52,274 - __main__ - INFO - KAIA: Saved 266 records
+2025-08-07 20:31:52,514 - __main__ - INFO - LDO: Saved 1407 records
+2025-08-07 20:31:52,515 - __main__ - INFO - Checkpoint saved: 90 symbols completed
+2025-08-07 20:31:54,853 - __main__ - INFO - XTZ: Saved 1466 records
+2025-08-07 20:31:54,888 - __main__ - INFO - S: Saved 212 records
+2025-08-07 20:31:54,962 - __main__ - INFO - SAROS: Saved 566 records
+2025-08-07 20:31:55,043 - __main__ - INFO - VIRTUAL: Saved 592 records
+2025-08-07 20:31:55,090 - __main__ - INFO - A: Saved 70 records
+2025-08-07 20:31:55,280 - __main__ - INFO - MKR: Saved 1466 records
+2025-08-07 20:31:55,546 - __main__ - INFO - XAUT: Saved 1466 records
+2025-08-07 20:31:55,795 - __main__ - INFO - THETA: Saved 1466 records
+2025-08-07 20:31:55,982 - __main__ - INFO - JASMY: Saved 1459 records
+2025-08-07 20:31:56,233 - __main__ - INFO - NEXO: Saved 1466 records
+2025-08-07 20:31:56,236 - __main__ - INFO - Checkpoint saved: 100 symbols completed
+2025-08-07 20:31:58,592 - __main__ - INFO - RAY: Saved 1466 records
+2025-08-07 20:31:58,816 - __main__ - INFO - DEXE: Saved 1466 records
+2025-08-07 20:31:59,099 - __main__ - INFO - SAND: Saved 1466 records
+2025-08-07 20:31:59,369 - __main__ - INFO - PENDLE: Saved 1466 records
+2025-08-07 20:31:59,448 - __main__ - INFO - AERO: Saved 562 records
+2025-08-07 20:31:59,537 - __main__ - INFO - PYTH: Saved 626 records
+2025-08-07 20:31:59,792 - __main__ - INFO - GALA: Saved 1466 records
+2025-08-07 20:32:00,021 - __main__ - INFO - BTT: Saved 1318 records
+2025-08-07 20:32:00,106 - __main__ - INFO - JTO: Saved 609 records
+2025-08-07 20:32:00,174 - __main__ - INFO - MORPHO: Saved 255 records
+2025-08-07 20:32:00,175 - __main__ - INFO - Checkpoint saved: 110 symbols completed
+2025-08-07 20:32:02,353 - __main__ - INFO - NEO: Saved 1466 records
+2025-08-07 20:32:02,397 - __main__ - INFO - SYRUP: Saved 261 records
+2025-08-07 20:32:02,416 - __main__ - INFO - AB: Saved 103 records
+2025-08-07 20:32:02,695 - __main__ - INFO - FLOW: Saved 1466 records
+2025-08-07 20:32:02,951 - __main__ - INFO - MANA: Saved 1466 records
+2025-08-07 20:32:03,118 - __main__ - INFO - USDD: Saved 1191 records
+2025-08-07 20:32:03,240 - __main__ - INFO - BRETT: Saved 499 records
+2025-08-07 20:32:03,481 - __main__ - INFO - MIOTA: Saved 1466 records
+2025-08-07 20:32:03,725 - __main__ - INFO - BDX: Saved 1466 records
+2025-08-07 20:32:03,970 - __main__ - INFO - HNT: Saved 1466 records
+2025-08-07 20:32:03,971 - __main__ - INFO - Checkpoint saved: 120 symbols completed
+2025-08-07 20:32:06,860 - __main__ - INFO - BSV: Saved 1466 records
+2025-08-07 20:32:06,933 - __main__ - INFO - ZBCN: Saved 442 records
+2025-08-07 20:32:07,203 - __main__ - INFO - TUSD: Saved 1466 records
+2025-08-07 20:32:07,346 - __main__ - INFO - CORE: Saved 693 records
+2025-08-07 20:32:07,543 - __main__ - INFO - XCN: Saved 1240 records
+2025-08-07 20:32:07,712 - __main__ - INFO - MOG: Saved 749 records
+2025-08-07 20:32:07,981 - __main__ - INFO - NFT: Saved 1466 records
+2025-08-07 20:32:08,271 - __main__ - INFO - FLUID: Saved 1466 records
+2025-08-07 20:32:08,350 - __main__ - INFO - STRK: Saved 534 records
+2025-08-07 20:32:08,579 - __main__ - INFO - APE: Saved 1239 records
+2025-08-07 20:32:08,581 - __main__ - INFO - Checkpoint saved: 130 symbols completed
+2025-08-07 20:32:10,881 - __main__ - INFO - RUNE: Saved 1466 records
+2025-08-07 20:32:11,214 - __main__ - INFO - RSR: Saved 1466 records
+2025-08-07 20:32:11,526 - __main__ - INFO - DYDX: Saved 1429 records
+2025-08-07 20:32:11,626 - __main__ - INFO - USDY: Saved 595 records
+2025-08-07 20:32:11,756 - __main__ - INFO - ETHFI: Saved 507 records
+2025-08-07 20:32:12,075 - __main__ - INFO - COMP: Saved 1466 records
+2025-08-07 20:32:12,127 - __main__ - INFO - DEEP: Saved 275 records
+2025-08-07 20:32:12,422 - __main__ - INFO - SUN: Saved 1466 records
+2025-08-07 20:32:12,698 - __main__ - INFO - EGLD: Saved 1466 records
+2025-08-07 20:32:13,004 - __main__ - INFO - KAVA: Saved 1466 records
+2025-08-07 20:32:13,005 - __main__ - INFO - Checkpoint saved: 140 symbols completed
+2025-08-07 20:32:16,464 - __main__ - INFO - AIOT: Saved 9 records
+2025-08-07 20:32:16,757 - __main__ - INFO - MWC: Saved 1466 records
+2025-08-07 20:32:17,063 - __main__ - INFO - XEC: Saved 1432 records
+2025-08-07 20:32:17,392 - __main__ - INFO - AIOZ: Saved 1466 records
+2025-08-07 20:32:17,544 - __main__ - INFO - BEAM: Saved 651 records
+2025-08-07 20:32:17,851 - __main__ - INFO - CHZ: Saved 1466 records
+2025-08-07 20:32:18,144 - __main__ - INFO - AXS: Saved 1466 records
+2025-08-07 20:32:18,206 - __main__ - INFO - ATH: Saved 415 records
+2025-08-07 20:32:18,271 - __main__ - INFO - VENOM: Saved 500 records
+2025-08-07 20:32:18,544 - __main__ - INFO - 1INCH: Saved 1466 records
+2025-08-07 20:32:18,545 - __main__ - INFO - Checkpoint saved: 150 symbols completed
+2025-08-07 20:32:20,860 - __main__ - INFO - TEL: Saved 1466 records
+2025-08-07 20:32:21,174 - __main__ - INFO - RNDR: Saved 1466 records
+2025-08-07 20:32:21,458 - __main__ - INFO - RONIN: Saved 1309 records
+2025-08-07 20:32:21,781 - __main__ - INFO - AMP: Saved 1466 records
+2025-08-07 20:32:21,814 - __main__ - INFO - SOLV: Saved 202 records
+2025-08-07 20:32:21,898 - __main__ - INFO - MOVE: Saved 241 records
+2025-08-07 20:32:22,219 - __main__ - INFO - CVX: Saved 1466 records
+2025-08-07 20:32:22,361 - __main__ - INFO - WEMIX: Saved 863 records
+2025-08-07 20:32:22,680 - __main__ - INFO - AR: Saved 1466 records
+2025-08-07 20:32:22,970 - __main__ - INFO - EOS: Saved 1466 records
+2025-08-07 20:32:22,971 - __main__ - INFO - Checkpoint saved: 160 symbols completed
+2025-08-07 20:32:25,210 - __main__ - INFO - MATIC: Saved 1466 records
+2025-08-07 20:32:25,435 - __main__ - INFO - LUNC: Saved 1155 records
+2025-08-07 20:32:25,715 - __main__ - INFO - GNO: Saved 1466 records
+2025-08-07 20:32:25,958 - __main__ - INFO - GOHM: Saved 1327 records
+2025-08-07 20:32:26,237 - __main__ - INFO - AKT: Saved 1466 records
+2025-08-07 20:32:26,526 - __main__ - INFO - JST: Saved 1466 records
+2025-08-07 20:32:26,824 - __main__ - INFO - TWT: Saved 1466 records
+2025-08-07 20:32:27,020 - __main__ - INFO - AXL: Saved 1044 records
+2025-08-07 20:32:27,100 - __main__ - INFO - KMNO: Saved 464 records
+2025-08-07 20:32:27,383 - __main__ - INFO - CTC: Saved 1466 records
+2025-08-07 20:32:27,384 - __main__ - INFO - Checkpoint saved: 170 symbols completed
+2025-08-07 20:32:29,490 - __main__ - INFO - DRIFT: Saved 448 records
+2025-08-07 20:32:29,586 - __main__ - INFO - POPCAT: Saved 595 records
+2025-08-07 20:32:29,809 - __main__ - INFO - TURBO: Saved 937 records
+2025-08-07 20:32:30,141 - __main__ - INFO - FTT: Saved 1466 records
+2025-08-07 20:32:30,165 - __main__ - INFO - USDG: Saved 99 records
+2025-08-07 20:32:30,243 - __main__ - INFO - DOG: Saved 469 records
+2025-08-07 20:32:30,284 - __main__ - INFO - WMTX: Saved 252 records
+2025-08-07 20:32:30,545 - __main__ - INFO - MSQ: Saved 1049 records
+2025-08-07 20:32:30,883 - __main__ - INFO - DCR: Saved 1466 records
+2025-08-07 20:32:31,242 - __main__ - INFO - USDJ: Saved 1466 records
+2025-08-07 20:32:31,243 - __main__ - INFO - Checkpoint saved: 180 symbols completed
+2025-08-07 20:32:33,632 - __main__ - INFO - OM: Saved 1466 records
+2025-08-07 20:32:34,061 - __main__ - INFO - IOTX: Saved 1466 records
+2025-08-07 20:32:34,170 - __main__ - INFO - MEW: Saved 499 records
+2025-08-07 20:32:34,289 - __main__ - INFO - QUBIC: Saved 450 records
+2025-08-07 20:32:34,433 - __main__ - INFO - SNEK: Saved 799 records
+2025-08-07 20:32:34,755 - __main__ - INFO - SUPER: Saved 1466 records
+2025-08-07 20:32:34,920 - __main__ - INFO - TOSHI: Saved 735 records
+2025-08-07 20:32:35,048 - __main__ - INFO - SAFE: Saved 822 records
+2025-08-07 20:32:35,346 - __main__ - INFO - GAS: Saved 1466 records
+2025-08-07 20:32:35,684 - __main__ - INFO - LPT: Saved 1466 records
+2025-08-07 20:32:35,686 - __main__ - INFO - Checkpoint saved: 190 symbols completed
+2025-08-07 20:32:39,636 - __main__ - INFO - TRIBE: Saved 1466 records
+2025-08-07 20:32:39,693 - __main__ - INFO - MOCA: Saved 391 records
+2025-08-07 20:32:40,004 - __main__ - INFO - DASH: Saved 1466 records
+2025-08-07 20:32:40,350 - __main__ - INFO - VELO: Saved 1466 records
+2025-08-07 20:32:40,652 - __main__ - INFO - TFUEL: Saved 1466 records
+2025-08-07 20:32:40,700 - __main__ - INFO - CHEEMS: Saved 303 records
+2025-08-07 20:32:41,040 - __main__ - INFO - CKB: Saved 1466 records
+2025-08-07 20:32:41,344 - __main__ - INFO - SFP: Saved 1466 records
+2025-08-07 20:32:41,668 - __main__ - INFO - MINA: Saved 1466 records
+2025-08-07 20:32:41,709 - __main__ - INFO - PNUT: Saved 277 records
+2025-08-07 20:32:41,710 - __main__ - INFO - Checkpoint saved: 200 symbols completed
+2025-08-07 20:32:41,815 - __main__ - INFO - Checkpoint cleared
+2025-08-07 20:38:31,735 - __main__ - INFO - Fetching top 200 cryptocurrencies
+2025-08-07 20:38:35,956 - __main__ - INFO - Checkpoint saved: 10 symbols completed
+2025-08-07 20:38:38,325 - __main__ - INFO - Checkpoint saved: 20 symbols completed
+2025-08-07 20:38:41,675 - __main__ - INFO - Checkpoint saved: 30 symbols completed
+2025-08-07 20:38:44,893 - __main__ - INFO - Checkpoint saved: 40 symbols completed
+2025-08-07 20:38:46,787 - __main__ - INFO - Checkpoint saved: 50 symbols completed
+2025-08-07 20:38:48,587 - __main__ - INFO - Checkpoint saved: 60 symbols completed
+2025-08-07 20:38:50,025 - __main__ - INFO - USDT0: Saved 1 records
+2025-08-07 20:38:50,026 - __main__ - INFO - Checkpoint saved: 70 symbols completed
+2025-08-07 20:38:52,879 - __main__ - INFO - Checkpoint saved: 80 symbols completed
+2025-08-07 20:38:55,451 - __main__ - INFO - Checkpoint saved: 90 symbols completed
+2025-08-07 20:38:57,837 - __main__ - INFO - Checkpoint saved: 100 symbols completed
+2025-08-07 20:39:01,379 - __main__ - INFO - Checkpoint saved: 110 symbols completed
+2025-08-07 20:39:03,281 - __main__ - INFO - Checkpoint saved: 120 symbols completed
+2025-08-07 20:39:05,060 - __main__ - INFO - Checkpoint saved: 130 symbols completed
+2025-08-07 20:39:06,508 - __main__ - INFO - Checkpoint saved: 140 symbols completed
+2025-08-07 20:39:08,407 - __main__ - INFO - Checkpoint saved: 150 symbols completed
+2025-08-07 20:39:09,847 - __main__ - INFO - Checkpoint saved: 160 symbols completed
+2025-08-07 20:39:11,297 - __main__ - INFO - Checkpoint saved: 170 symbols completed
+2025-08-07 20:39:12,863 - __main__ - INFO - Checkpoint saved: 180 symbols completed
+2025-08-07 20:39:14,480 - __main__ - INFO - Checkpoint saved: 190 symbols completed
+2025-08-07 20:39:15,930 - __main__ - INFO - Checkpoint saved: 200 symbols completed
+2025-08-07 20:39:16,047 - __main__ - INFO - Checkpoint cleared
+2025-08-07 20:39:16,859 - __main__ - INFO - Collecting news from 2021-08-01 to 2025-08-06
+2025-08-07 21:12:55,305 - __main__ - INFO - Fetching top 200 cryptocurrencies
+2025-08-07 21:12:58,398 - __main__ - INFO - Collecting data for 82 symbols
+2025-08-07 21:13:31,201 - __main__ - INFO - Checkpoint cleared
+2025-08-07 21:16:43,474 - __main__ - INFO - Fetching top 200 cryptocurrencies
+2025-08-07 21:16:46,849 - __main__ - INFO - Collecting data for 45 symbols
+2025-08-07 21:17:00,258 - __main__ - INFO - Checkpoint cleared
+2025-08-07 21:17:01,371 - __main__ - WARNING - Removing 44908 rows with invalid dates
+2025-08-07 21:17:01,397 - __main__ - INFO - Collecting news from 2021-08-01 to 2025-08-06
+2025-08-07 21:17:01,398 - __main__ - INFO - API limit: 11000 calls
+2025-08-07 21:17:01,399 - __main__ - INFO - Will collect from 978 time points
+2025-08-07 21:18:52,172 - __main__ - WARNING - Rate limited, waiting 60 seconds
+2025-08-07 21:18:52,172 - __main__ - WARNING - Rate limited, waiting 60 seconds
+2025-08-07 21:18:52,172 - __main__ - WARNING - Rate limited, waiting 60 seconds
+2025-08-07 21:18:52,173 - __main__ - WARNING - Rate limited, waiting 60 seconds
+2025-08-07 21:18:52,173 - __main__ - WARNING - Rate limited, waiting 60 seconds
+2025-08-07 21:18:52,173 - __main__ - WARNING - Rate limited, waiting 60 seconds
+2025-08-07 21:18:52,173 - __main__ - WARNING - Rate limited, waiting 60 seconds
+2025-08-07 21:18:52,174 - __main__ - WARNING - Rate limited, waiting 60 seconds
+2025-08-07 21:18:52,174 - __main__ - WARNING - Rate limited, waiting 60 seconds
+2025-08-07 21:18:53,329 - __main__ - WARNING - Rate limited, waiting 60 seconds
