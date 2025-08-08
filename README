@@ -1,5 +1,8 @@
 # Cryptocurrency Portfolio Management System
 
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.36:8501
+
 A 4-stage pipeline system for cryptocurrency portfolio optimization.
 
 ## Quick Start
@@ -25,21 +28,99 @@ Then select an option:
 ## Project Structure
 
 ```
-fintech_crypto_project/
-├── src/
-│   └── pipeline/
-│       ├── stage1_data_collection.py      # Collect crypto data
-│       ├── stage2_feature_engineering.py  # Generate features
-│       ├── stage3_model_design.py        # Portfolio optimization
-│       └── stage4_app_implementation.py  # Streamlit dashboard
-├── data/
-│   ├── processed/                        # Processed data
-│   ├── features/                         # Feature data
-│   └── results/                          # Optimization results
-├── config.py                             # Configuration settings
-├── run.py                                # Main program
-├── requirements.txt                      # Python dependencies
-└── README.md                             # This file
+
+├── .env
+├── .gitignore
+├── .idea
+│   ├── .gitignore
+│   ├── fintech_crypto_project.iml
+│   ├── inspectionProfiles
+│   │   ├── Project_Default.xml
+│   │   └── profiles_settings.xml
+│   ├── misc.xml
+│   ├── modules.xml
+│   └── workspace.xml
+├── 1.py
+├── README
+├── __pycache__
+│   └── config.cpython-312.pyc
+├── config.py
+├── crypto_portfolio.db
+├── data
+│   ├── cache
+│   │   └── crypto_cache.db
+│   ├── features
+│   │   ├── engineered_features.csv
+│   │   ├── engineered_features.parquet
+│   │   ├── feature_report.json
+│   │   └── news_features.csv
+│   ├── processed
+│   │   ├── collection_report.json
+│   │   ├── news_data.csv
+│   │   ├── news_data.parquet
+│   │   ├── price_data.csv
+│   │   └── price_data.parquet
+│   └── results
+│       ├── best_strategy_holdings.csv
+│       ├── cumulative_returns.html
+│       ├── metrics_comparison.html
+│       ├── optimal_weights.csv
+│       ├── optimization_results.json
+│       ├── plots
+│       │   ├── cumret_W-WED.png
+│       │   ├── cumulative_returns.png
+│       │   ├── metrics_comparison.png
+│       │   ├── portfolio_allocation_analysis.png
+│       │   ├── portfolio_weights.png
+│       │   ├── risk_return_scatter.png
+│       │   ├── sharpe_W-WED.png
+│       │   ├── sharpe_comparison.png
+│       │   ├── strategy_comparison.png
+│       │   └── strategy_performance_grid.png
+│       ├── risk_return_scatter.html
+│       ├── sentiment_analysis
+│       │   ├── sentiment_wordcloud.png
+│       │   └── sentiment_wordcloud_combined.png
+│       ├── sharpe_comparison.html
+│       ├── strategy_comparison.csv
+│       ├── strategy_comparison.html
+│       └── weights_heatmap.html
+├── logs
+│   └── data_collection.log
+├── reports
+│   └── stage2
+│       ├── feature_engineering_report.json
+│       ├── plots
+│       │   ├── correlation_heatmap.png
+│       │   └── feature_distributions.png
+│       └── tables
+│           ├── feature_summary.csv
+│           ├── feature_summary.tex
+│           ├── feature_summary.txt
+│           ├── missing_values.csv
+│           ├── missing_values.tex
+│           ├── missing_values.txt
+│           ├── sentiment_statistics.csv
+│           ├── sentiment_statistics.tex
+│           └── sentiment_statistics.txt
+├── requirements.txt
+├── run.py
+├── run_app.bat
+└── src
+    ├── __init__.py
+    ├── __pycache__
+    │   └── __init__.cpython-312.pyc
+    └── pipeline
+        ├── __init__.py
+        ├── __pycache__
+        │   ├── __init__.cpython-312.pyc
+        │   ├── enhanced_visualizer.cpython-312.pyc
+        │   └── stage3_model_design.cpython-312.pyc
+        ├── enhanced_visualizer.py
+        ├── stage1_data_collection.py
+        ├── stage2_feature_engineering.py
+        ├── stage3_model_design.py
+        └── stage4_app_implementation.py
 ```
 
 ## Pipeline Stages
