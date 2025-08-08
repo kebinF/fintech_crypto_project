@@ -1,1 +1,0 @@
-# fintech_crypto_project
