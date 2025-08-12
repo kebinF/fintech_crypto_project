@@ -56,10 +56,11 @@ idna==3.7
 click==8.1.8
 
 # ========== Optional Performance Boosters ==========
-numexpr==2.11.0  # You have this
-bottleneck==1.4.2  # You have this
+numexpr==2.11.0  
+bottleneck==1.4.2  
 
 # ========== Protobuf for Google APIs ==========
 protobuf==6.31.1
 grpcio==1.74.0
 grpcio-status==1.71.2
+
