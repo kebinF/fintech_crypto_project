@@ -1,6 +1,5 @@
 # ========== FINS5545 FinTech Project Requirements ==========
 # Based on your actual installed packages
-# Generated: 2024
 
 # ========== Core Dependencies ==========
 streamlit==1.48.0
@@ -63,4 +62,5 @@ bottleneck==1.4.2
 protobuf==6.31.1
 grpcio==1.74.0
 grpcio-status==1.71.2
+
 
