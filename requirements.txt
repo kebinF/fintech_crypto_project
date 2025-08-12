@@ -14,7 +14,7 @@ wordcloud==1.9.4
 
 # ========== Financial Analysis ==========
 yfinance==0.2.65  # Latest stable version
-ta-lib==0.6.4  # You have this installed
+# ta-lib==0.6.4  # You have this installed
 
 # ========== Machine Learning & Optimization ==========
 scikit-learn==1.5.1
@@ -62,5 +62,6 @@ bottleneck==1.4.2
 protobuf==6.31.1
 grpcio==1.74.0
 grpcio-status==1.71.2
+
 
 
