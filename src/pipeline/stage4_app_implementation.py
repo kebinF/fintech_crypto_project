@@ -2,7 +2,7 @@
 Stage 4: Clean Version - Cryptocurrency Portfolio Management Application
 FINS5545 FinTech Project - Gemini AI Integration Fixed
 """
-
+import talib_compat
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -1149,4 +1149,5 @@ if __name__ == "__main__":
         main()
     except Exception as e:
         st.error(f"Application Error: {str(e)}")
+
         logger.error(f"Application crashed: {e}", exc_info=True)
